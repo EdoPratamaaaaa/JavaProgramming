@@ -20,6 +20,8 @@ Yang pertama bisa memisahkan antara Deklarasi dan Inisialisasi yang kedua bisa d
 
 ![image](https://github.com/user-attachments/assets/58c44dca-cba6-4eed-984b-7e3ae5e707bc)
 
+# Array
+
 ![image](https://github.com/user-attachments/assets/8a808acd-07ca-4a44-af08-1defcc5cd489)
 
 
