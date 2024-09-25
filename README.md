@@ -13,6 +13,7 @@ Comment berfungsi untuk menonaktifkan syntax atau codingan sehingga program pada
 
 # Variable dan Datatype
 ![image](https://github.com/user-attachments/assets/ff42630e-6d7e-4756-87a0-e529a1f7dfcf)
+
 ![image](https://github.com/user-attachments/assets/685e4ec6-704d-4923-a4a1-d423bbe9c044)
 
 Terdapat 2 jenis penggunaan Variable 
@@ -50,24 +51,29 @@ Pada operator terdapat beberapa syntax yang dapa digunakan :
 
 # Method 
 ![image](https://github.com/user-attachments/assets/5516da2c-f700-4e83-a2b2-b08f34a4505c)
+
 ![image](https://github.com/user-attachments/assets/8246be9c-bcc7-45e6-9a6b-5afbc9fd63e1)
 
 # Looping
 Looping atau pengulangan memungkinkan untuk mengeksekusi pernyataan atau sekelompok pernyataan beberapa kali biasa digunakan untuk kasus yang memiliki pengulangan berulang.
 # Penggunaan while-do
 ![image](https://github.com/user-attachments/assets/aceac39e-8fdd-47bc-86b6-097d13b5ea15)
+
 ![image](https://github.com/user-attachments/assets/59bb2ea3-9b0f-42e5-a7db-37302b1269c2)
 
 # Penggunaan do-while
 ![image](https://github.com/user-attachments/assets/f0b64053-a699-4d0e-bbe0-c44295972e20)
+
 ![image](https://github.com/user-attachments/assets/18571483-dd8c-42c2-8277-4436561f056b)
 
 # For Loop
 ![image](https://github.com/user-attachments/assets/dfeccd19-21aa-4e92-8a47-87110072a833)
+
 ![image](https://github.com/user-attachments/assets/b4c642b1-88b2-4abf-b2c1-427787a1b731)
 
 # Enchanced for loop
 ![image](https://github.com/user-attachments/assets/8284e095-1575-4993-bc6a-dd483f02b760)
+
 ![image](https://github.com/user-attachments/assets/aa5a1792-50a1-4fc4-acc6-cdaf2de17800)
 
 
