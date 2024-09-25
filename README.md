@@ -22,6 +22,7 @@ Yang pertama bisa memisahkan antara Deklarasi dan Inisialisasi yang kedua bisa d
 
 # Array
 Array digunakan untuk menyimpan sejumlah elemen dengan tipe data yang sama terdapat 2 jenis array yaitu 1D dan 2D.
+
 ![image](https://github.com/user-attachments/assets/8a808acd-07ca-4a44-af08-1defcc5cd489)
 
 Array juga harus di deklarasi terlebih dahulu kemudian nilai array akan di alokasikan
@@ -38,12 +39,39 @@ Pada operator terdapat beberapa syntax yang dapa digunakan :
 - ( * ) untuk pengurangan
 - ( / ) untuk pengurangan
 - ( % ) untuk pengurangan
+  
 ![image](https://github.com/user-attachments/assets/26f56e99-8552-492e-a30f-e1efe0094491)
 
 # Conditional Operator
 - ( && ) Dan yang artinya kedua duanya harus benar
 - ( || ) Atau yang artinya salah satu harus benar
+  
 ![image](https://github.com/user-attachments/assets/9b302324-da6d-47da-890b-666236c37acd)
+
+# Method 
+![image](https://github.com/user-attachments/assets/5516da2c-f700-4e83-a2b2-b08f34a4505c)
+![image](https://github.com/user-attachments/assets/8246be9c-bcc7-45e6-9a6b-5afbc9fd63e1)
+
+# Looping
+Looping atau pengulangan memungkinkan untuk mengeksekusi pernyataan atau sekelompok pernyataan beberapa kali biasa digunakan untuk kasus yang memiliki pengulangan berulang.
+# Penggunaan while-do
+![image](https://github.com/user-attachments/assets/aceac39e-8fdd-47bc-86b6-097d13b5ea15)
+![image](https://github.com/user-attachments/assets/59bb2ea3-9b0f-42e5-a7db-37302b1269c2)
+
+# Penggunaan do-while
+![image](https://github.com/user-attachments/assets/f0b64053-a699-4d0e-bbe0-c44295972e20)
+![image](https://github.com/user-attachments/assets/18571483-dd8c-42c2-8277-4436561f056b)
+
+# For Loop
+![image](https://github.com/user-attachments/assets/dfeccd19-21aa-4e92-8a47-87110072a833)
+![image](https://github.com/user-attachments/assets/b4c642b1-88b2-4abf-b2c1-427787a1b731)
+
+# Enchanced for loop
+![image](https://github.com/user-attachments/assets/8284e095-1575-4993-bc6a-dd483f02b760)
+![image](https://github.com/user-attachments/assets/aa5a1792-50a1-4fc4-acc6-cdaf2de17800)
+
+
+
 
 
 
