@@ -21,8 +21,30 @@ Yang pertama bisa memisahkan antara Deklarasi dan Inisialisasi yang kedua bisa d
 ![image](https://github.com/user-attachments/assets/58c44dca-cba6-4eed-984b-7e3ae5e707bc)
 
 # Array
-
+Array digunakan untuk menyimpan sejumlah elemen dengan tipe data yang sama terdapat 2 jenis array yaitu 1D dan 2D.
 ![image](https://github.com/user-attachments/assets/8a808acd-07ca-4a44-af08-1defcc5cd489)
+
+Array juga harus di deklarasi terlebih dahulu kemudian nilai array akan di alokasikan
+
+# 2 Dimensi
+![image](https://github.com/user-attachments/assets/8c297596-204e-4dce-a595-c02cec360895)
+
+Perbedaannya terdapat pada saat penggunaanya, 2Dimensi dapat digunakan dalam 1 Array dengan banyak data didalamnya dan pada array 2Dimensi dapat memanggil beberapa data didalam array tersebut
+
+# Operator 
+Pada operator terdapat beberapa syntax yang dapa digunakan :
+- ( - ) untuk pengurangan
+- ( + ) untuk pengurangan
+- ( * ) untuk pengurangan
+- ( / ) untuk pengurangan
+- ( % ) untuk pengurangan
+![image](https://github.com/user-attachments/assets/26f56e99-8552-492e-a30f-e1efe0094491)
+
+# Conditional Operator
+- ( && ) Dan yang artinya kedua duanya harus benar
+- ( || ) Atau yang artinya salah satu harus benar
+![image](https://github.com/user-attachments/assets/9b302324-da6d-47da-890b-666236c37acd)
+
 
 
 
